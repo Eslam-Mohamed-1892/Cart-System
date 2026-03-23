@@ -69,11 +69,12 @@ Cart-System/
 
 ### 🧑‍💼 Admin Page
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ee76c769-fa2c-4eb2-a40b-6576f3557ac9" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/bfdca3c4-2652-453f-b912-ad7db0e177ca" />
+
 
 ### 🧑‍💻 User Page
 
-![User Screenshot](https://via.placeholder.com/800x400?text=User+Page)
+<img width="1100" height="550" alt="image" src="https://github.com/user-attachments/assets/ee76c769-fa2c-4eb2-a40b-6576f3557ac9" />
 
 ---
 
