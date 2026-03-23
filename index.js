@@ -78,15 +78,16 @@ let addToCart = (index) => {
     if (productInCart == -1) {
         product.qty = 1
         cart.push(product)
-    }else{
+    } else {
         cart[productInCart].qty++;
     }
-
+    localStorage.setItem("cart", JSON.stringify(cart));
     showCart()
 }
 
 let increment = (index) => {
     cart[index].qty++;
+    localStorage.setItem("cart", JSON.stringify(cart));
     showCart()
 }
 
@@ -95,6 +96,7 @@ let decrement = (index) => {
     if (cart[index].qty < 1) {
         cart.splice(index, 1)
     }
+    localStorage.setItem("cart", JSON.stringify(cart));
     showCart()
 }
 
@@ -110,3 +112,5 @@ let filterPorducts = (brand) => {
     }
     showProducts()
 }
+
+showCart();

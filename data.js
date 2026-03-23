@@ -16,5 +16,8 @@ let orignalProductsJSON = localStorage.getItem("Products")
 let orignalProducts = JSON.parse(orignalProductsJSON)
 let products = orignalProducts;
 
-let cart = []
+
+
+let cartJSON = localStorage.getItem("cart");
+let cart = JSON.parse(cartJSON) ;
 
