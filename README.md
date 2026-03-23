@@ -69,12 +69,12 @@ Cart-System/
 
 ### 🧑‍💼 Admin Page
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/bfdca3c4-2652-453f-b912-ad7db0e177ca" />
+<img class="w-50 h-50 d-flex justify-content-center align-items-center" alt="image" src="https://github.com/user-attachments/assets/bfdca3c4-2652-453f-b912-ad7db0e177ca" />
 
 
 ### 🧑‍💻 User Page
 
-<img width="1100" height="550" alt="image" src="https://github.com/user-attachments/assets/ee76c769-fa2c-4eb2-a40b-6576f3557ac9" />
+<img class="w-50 h-50 d-flex justify-content-center align-items-center" alt="image" src="https://github.com/user-attachments/assets/ee76c769-fa2c-4eb2-a40b-6576f3557ac9" />
 
 ---
 
