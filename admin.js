@@ -23,8 +23,11 @@ let showProducts = () => {
             <img height="50" width="50" class="rounded-circle object-fit-cover" src="${el.img}"/>
             </td>
             <td>
-                <button onclick="editItem(${index})" data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-warning" >Edit</button>
-                <button onclick="removeItem(${index})" class="btn btn-danger" >Remove</button>
+              <div class="d-flex flex-column flex-md-row gap-2 justify-content-center">
+              <button onclick="editItem(${index})" data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-warning" >Edit</button>
+              <button onclick="removeItem(${index})" class="btn btn-danger" >Remove</button>
+              
+              </div>
             </td>
         </tr>
         `

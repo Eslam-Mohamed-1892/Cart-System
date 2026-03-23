@@ -23,7 +23,7 @@ let showProducts = () => {
     productsDiv.innerHTML = ""
     products.forEach((el, index) => {
         productsDiv.innerHTML += `
-                <div class="col-4 border-0">
+                <div class="col-6 col-lg-4 col-md-4 border-0">
                     <div class="card col-12 p-3 fw-semibold">
                         <img src="${el.img}" height="200" class="card-img-top object-fit-contain">
                         <div class="card-body">
