@@ -14,6 +14,8 @@ This project simulates a real product management system with an Admin panel.
 
 👉 https://eslam-mohamed-1892.github.io/Cart-System/
 
+👉 https://eslam-mohamed-1892.github.io/Cart-System/admin.html
+
 ---
 
 ## ✨ Features
@@ -69,12 +71,15 @@ Cart-System/
 
 ### 🧑‍💼 Admin Page
 
-<img class="w-50 h-50 d-flex justify-content-center align-items-center" alt="image" src="https://github.com/user-attachments/assets/bfdca3c4-2652-453f-b912-ad7db0e177ca" />
-
+<p align="center">
+  <img  src="https://github.com/user-attachments/assets/bfdca3c4-2652-453f-b912-ad7db0e177ca" width="450"/>
+</p>
 
 ### 🧑‍💻 User Page
 
-<img class="w-50 h-50 d-flex justify-content-center align-items-center" alt="image" src="https://github.com/user-attachments/assets/ee76c769-fa2c-4eb2-a40b-6576f3557ac9" />
+<p align="center">
+  <img  src="https://github.com/user-attachments/assets/ee76c769-fa2c-4eb2-a40b-6576f3557ac9" width="450"/>
+</p>
 
 ---
 
