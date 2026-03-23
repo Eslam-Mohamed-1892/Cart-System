@@ -69,7 +69,7 @@ Cart-System/
 
 ### 🧑‍💼 Admin Page
 
-![Admin Screenshot](https://via.placeholder.com/800x400?text=Admin+Page)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ee76c769-fa2c-4eb2-a40b-6576f3557ac9" />
 
 ### 🧑‍💻 User Page
 
