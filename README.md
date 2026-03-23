@@ -13,6 +13,7 @@ This project simulates a real product management system with an Admin panel.
 ## 🚀 Live Demo
 
 👉 https://eslam-mohamed-1892.github.io/Cart-System/
+👉 https://eslam-mohamed-1892.github.io/Cart-System/admin.html
 
 ---
 
