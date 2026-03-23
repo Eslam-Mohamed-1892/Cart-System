@@ -69,8 +69,9 @@ Cart-System/
 
 ### 🧑‍💼 Admin Page
 
-<img class="w-50 h-50 d-flex justify-content-center align-items-center" alt="image" src="https://github.com/user-attachments/assets/bfdca3c4-2652-453f-b912-ad7db0e177ca" />
-
+<p align="center">
+  <img  src="https://github.com/user-attachments/assets/bfdca3c4-2652-453f-b912-ad7db0e177ca" width="500"/>
+</p>
 
 ### 🧑‍💻 User Page
 
