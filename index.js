@@ -1,4 +1,4 @@
-
+// import "bootstrap/dist/js/bootstrap.bundle.min.js";
 let tbody = document.querySelector("table tbody")
 let productsDiv = document.querySelector("#productsDiv")
 let table = document.querySelector("table tbody")

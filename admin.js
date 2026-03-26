@@ -1,3 +1,4 @@
+// import "bootstrap/dist/js/bootstrap.bundle.min.js";
 let table = document.querySelector("table tbody")
 let nameInput = document.querySelector(".nameInput")
 let priceInput = document.querySelector(".priceInput")
