@@ -1,18 +1,3 @@
-let appear = false
-// let showCart = () => {
-//     if (appear == false) {
-//         appear = true
-//         showYourCart()
-//     }
-//     else {
-//         appear = false
-//         tbody.innerHTML = ""
-//     }
-
-// }
-
-
-
 
 let tbody = document.querySelector("table tbody")
 let productsDiv = document.querySelector("#productsDiv")
@@ -28,7 +13,7 @@ let showProducts = () => {
                         <img src="${el.img}" height="200" class="card-img-top object-fit-contain">
                         <div class="card-body">
                             <h5 class="card-title">${el.name}</h5>
-                            <p>${el.price} $</p>
+                            <p>${el.price} L.E</p>
                             <button onclick="addToCart(${index})" class="btn btn-primary">Add To Cart</button>
                         </div>
                     </div>
@@ -44,7 +29,7 @@ let caclTotal = () => {
     cart.forEach((el, index) => {
         total = total + (el.qty * el.price)
     })
-    totalSpan.textContent = total
+    totalSpan.textContent = total + " L.E"
 }
 
 let showCart = () => {
@@ -62,7 +47,7 @@ let showCart = () => {
                                 <button onclick="increment(${index})" class="btn btn-warning">+</button>
                             </div>
                         </td>
-                        <td>${el.qty * el.price}</td>
+                        <td>${el.qty * el.price} L.E</td>
                     </tr>
         `
     })
